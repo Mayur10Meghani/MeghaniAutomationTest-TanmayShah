@@ -1,0 +1,17 @@
+<suite name = "Module1-Payment Module">
+	<test name="Validate User">
+		<classes>
+			<class name="module1.ValidateUser"></class>
+			
+		</classes>
+	</test>
+	
+	<test name="ValidateInformationLinks">
+		<classes>
+			<class name="module1.ValidateInformationLinks"></class>
+
+		</classes>
+	</test>
+	
+	
+</suite>

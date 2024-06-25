@@ -1,0 +1,17 @@
+<suite name = "Module2-Report Module">
+	<test name="SearchProduct">
+		<classes>
+			<class name="module2.SearchProduct"></class>
+			
+		</classes>
+	</test>
+	
+	<test name="SelectSpecificProduct">
+		<classes>
+			<class name="module2.SelectSpecificProduct"></class>
+
+		</classes>
+	</test>
+	
+	
+</suite>

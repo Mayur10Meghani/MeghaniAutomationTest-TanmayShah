@@ -1,0 +1,7 @@
+<suite name="ProjectName-REL01-21062024">
+<suite-files>
+<suite-file path="./src/test/java/testexecution/Module1.xml"></suite-file>
+<suite-file path="./src/test/java/testexecution/Module2.xml"></suite-file>
+</suite-files>
+
+</suite>
